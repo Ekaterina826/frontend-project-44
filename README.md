@@ -1,3 +1,8 @@
 ### Hexlet tests and linter status:
+
 [![Actions Status](https://github.com/Ekaterina826/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Ekaterina826/frontend-project-44/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/afad5c43fd7431f1ba9d/maintainability)](https://codeclimate.com/github/Ekaterina826/frontend-project-44/maintainability)
+
+## Демонстрация работы игры brain-even
+
+[Смотреть запись asciinema](https://asciinema.org/a/6e5b349d-ed6f-49b2-8b5a-6d5616735e5b)
