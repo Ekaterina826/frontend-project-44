@@ -6,3 +6,7 @@
 ## Демонстрация работы игры brain-even
 
 [Смотреть запись asciinema](https://asciinema.org/a/6e5b349d-ed6f-49b2-8b5a-6d5616735e5b)
+
+## Демонстрация игры 'Калькулятор'
+
+[Смотреть запись](https://asciinema.org/a/9VfdlohPjk4onoHlZSloXoMxv)
