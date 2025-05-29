@@ -1,5 +1,5 @@
-import runGame from "../index.js";
-import getRandomNumber from "../utils/random.js";
+import runGame from '../index.js';
+import getRandomNumber from '../utils/random.js';
 
 // Функция для вычисления НОД
 const getGCD = (a, b) => {
@@ -18,7 +18,7 @@ const generateQuestionAndAnswer = () => {
   return { question, correctAnswer };
 };
 
-const gameRules = "Find the greatest common divisor of given numbers.";
+const gameRules = 'Find the greatest common divisor of given numbers.';
 
 const runGcdGame = () => runGame(gameRules, generateQuestionAndAnswer);
 

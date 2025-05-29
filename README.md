@@ -18,3 +18,7 @@
 ## Демонстрация игры "Арифметическая прогрессия"
 
 [Смотреть запись asciinema](https://asciinema.org/a/m2jrNXOujkTVRxRKgZ3fEZvlG)
+
+## Демонстрация игры "Простое число"
+
+[Смотреть запись asciinema](https://asciinema.org/a/VkwHEychpsmKljwHmoH1Sq2qw)

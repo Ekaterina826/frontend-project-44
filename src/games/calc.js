@@ -1,16 +1,16 @@
-import runGame from "../index.js";
-import getRandomNumber from "../utils/random.js";
+import runGame from '../index.js';
+import getRandomNumber from '../utils/random.js';
 
-const gameRules = "What is the result of the expression?";
-const operators = ["+", "-", "*"];
+const gameRules = 'What is the result of the expression?';
+const operators = ['+', '-', '*'];
 
 const calculate = (num1, num2, operator) => {
   switch (operator) {
-    case "+":
+    case '+':
       return num1 + num2;
-    case "-":
+    case '-':
       return num1 - num2;
-    case "*":
+    case '*':
       return num1 * num2;
     default:
       throw new Error(`Unknown operator: ${operator}`);
