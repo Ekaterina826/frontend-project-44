@@ -26,11 +26,9 @@
 
 ## Установка
 
-```bash
 git clone https://github.com/Ekaterina826/frontend-project-44.git
 cd frontend-project-44
 npm ci
-```
 
 ## Демонстрация работы игры brain-even
 
