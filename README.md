@@ -14,3 +14,7 @@
 ## Демонстрация игры brain-gcd
 
 [Смотреть запись asciinema](https://asciinema.org/a/EaVoGKV4xBoV2paKx58e0JE4g)
+
+## Демонстрация игры "Арифметическая прогрессия"
+
+[Смотреть запись asciinema](https://asciinema.org/a/m2jrNXOujkTVRxRKgZ3fEZvlG)
