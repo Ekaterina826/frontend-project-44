@@ -42,10 +42,10 @@ npm ci
 
 [Смотреть запись asciinema](https://asciinema.org/a/EaVoGKV4xBoV2paKx58e0JE4g)
 
-## Демонстрация игры "Арифметическая прогрессия"
+## Демонстрация игры 'Арифметическая прогрессия'
 
 [Смотреть запись asciinema](https://asciinema.org/a/m2jrNXOujkTVRxRKgZ3fEZvlG)
 
-## Демонстрация игры "Простое число"
+## Демонстрация игры 'Простое число'
 
 [Смотреть запись asciinema](https://asciinema.org/a/VkwHEychpsmKljwHmoH1Sq2qw)
