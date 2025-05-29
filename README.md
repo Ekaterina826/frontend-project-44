@@ -10,3 +10,7 @@
 ## Демонстрация игры 'Калькулятор'
 
 [Смотреть запись](https://asciinema.org/a/9VfdlohPjk4onoHlZSloXoMxv)
+
+## Демонстрация игры brain-gcd
+
+[Смотреть запись asciinema](https://asciinema.org/a/EaVoGKV4xBoV2paKx58e0JE4g)
